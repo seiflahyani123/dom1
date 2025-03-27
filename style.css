@@ -1,0 +1,8 @@
+.toul {
+    display: flex; 
+    justify-content: center; 
+    gap: 10px;
+}
+.saif{
+    color:red
+}
